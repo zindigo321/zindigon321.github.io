@@ -12,9 +12,9 @@ redirect_from:
 
 # 关于我 / About Me
 
-你好，我是 **bulbzhong**，一名计算机专业在读学生。目前主要学习 **大模型、多模态与算法**。此外，我很喜欢音乐、徒步和骑行。
+一名喜欢音乐、爬山、骑单车的计算机专业在读学生。
 
-Hi, I am **bulbzhong**, a computer science student currently studying **large language models, multimodal learning, and algorithms**. Beyond computing, I enjoy music, hiking, and cycling.
+A computer science student who enjoys music, hiking, and cycling.
 
 <span class='anchor' id='news'></span>
 
@@ -32,8 +32,11 @@ Hi, I am **bulbzhong**, a computer science student currently studying **large la
     </ul>
   </li>
   <li class="news-learning-group">
-    <strong>Hugging Face Transformers 学习</strong>
+    <strong>Hugging Face Transformers 实战</strong>
     <ul class="news-task-list">
+      <li class="news-task is-complete">实战-基于T5的文本摘要模型</li>
+      <li class="news-task is-complete">实战-基于GLM的文本摘要模型</li>
+      <li class="news-task is-complete">实战-生成式对话机器人(Bloom)</li>
       <li class="news-task is-complete">实战-检索机器人(naive RAG + top-K)</li>
       <li class="news-task is-complete">实战-基于掩码语言的模型训练</li>
       <li class="news-task is-complete">实战-基于因果语言的模型训练</li>
@@ -48,7 +51,7 @@ Hi, I am **bulbzhong**, a computer science student currently studying **large la
     </ul>
   </li>
   <li class="news-learning-group">
-    <strong>《百面大模型》学习</strong>
+    <strong>大模型高效微调实战</strong>
   </li>
 </ul>
 
@@ -99,18 +102,3 @@ Hi, I am **bulbzhong**, a computer science student currently studying **large la
 - **2026 – 至今**：浙江 / Zhejiang
 - **2022 – 2026**：天津 / Tianjin
 - **2022 以前**：四川 / Sichuan
-
-<span class='anchor' id='life'></span>
-
-# 个人生活事件 / Personal Life Events
-
-<ul class="life-event-list">
-  <li class="life-event-row">
-    <span class="life-event-emoji" aria-hidden="true">🌊</span>
-    <span><strong>2026.06</strong>：毕业了，心情像张震岳的专辑《跟着感觉走》</span>
-  </li>
-  <li class="life-event-row">
-    <span class="life-event-emoji" aria-hidden="true">🌊</span>
-    <span><strong>2026.07</strong>：过渡期 Come to Life</span>
-  </li>
-</ul>
