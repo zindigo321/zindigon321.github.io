@@ -52,6 +52,15 @@ A computer science student who enjoys music, hiking, and cycling.
   </li>
   <li class="news-learning-group">
     <strong>大模型高效微调实战</strong>
+    <ul class="news-task-list">
+      <li class="news-task is-complete">参数高效微调与BitFit实战</li>
+      <li class="news-task is-complete">Prompt-Tuning原理与实战</li>
+      <li class="news-task is-complete">P-Tuning 原理与实战</li>
+      <li class="news-task is-complete">Prefix-Tuning 原理与实战</li>
+      <li class="news-task is-complete">Lora 原理与实战</li>
+      <li class="news-task is-complete">IA3 原理与实战</li>
+      <li class="news-task is-complete">PEFT 进阶操作</li>
+    </ul>
   </li>
 </ul>
 
