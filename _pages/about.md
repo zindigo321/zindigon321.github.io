@@ -62,6 +62,17 @@ A computer science student who enjoys music, hiking, and cycling.
       <li class="news-task is-complete">PEFT 进阶操作</li>
     </ul>
   </li>
+  <li class="news-learning-group">
+    <strong>低精度训练与量化</strong>
+    <ul class="news-task-list">
+      <li class="news-task is-complete">低精度训练与大模型下载</li>
+      <li class="news-task is-complete">半精度训练与 LLaMA2 训练实战</li>
+      <li class="news-task is-complete">LLaMA2 训练细节补充</li>
+      <li class="news-task is-complete">半精度训练与 ChatGLM3 训练实战</li>
+      <li class="news-task is-complete">量化与 8bit 模型训练</li>
+      <li class="news-task is-complete">4bit 量化与 QLoRA 模型训练</li>
+    </ul>
+  </li>
 </ul>
 
 <span class='anchor' id='research-interests'></span>
